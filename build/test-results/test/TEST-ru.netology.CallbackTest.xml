@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.CallbackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-06T17:00:19" hostname="DESKTOP-TV39M0D" time="5.567">
+<testsuite name="ru.netology.CallbackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-07T07:41:32" hostname="DESKTOP-TV39M0D" time="3.245">
   <properties/>
-  <testcase name="shouldTestFormCorrect()" classname="ru.netology.CallbackTest" time="5.567"/>
+  <testcase name="shouldTestEmptyFieldsNameAndPhone()" classname="ru.netology.CallbackTest" time="3.245"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 1834
+Starting ChromeDriver 89.0.4389.23 (61b08ee2c50024bab004e48d2b1b083cdbdac579-refs/branch-heads/4389@{#294}) on port 8813
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-апр. 06, 2021 8:00:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+апр. 07, 2021 10:41:34 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
